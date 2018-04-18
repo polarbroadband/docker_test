@@ -1,3 +1,3 @@
 # docker_test
-Python Code testing in Docker environment
-Stack integration
+Python Code testing and Stack integration in Docker environment
+
